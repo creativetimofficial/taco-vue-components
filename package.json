@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lorena-cocora-updivision/test-vue-components.git"
+    "url": "https://github.com/lorena-cocora-updivision/test-vue-components.git"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/lorena-cocora-updivision/test-vue-components/issues"
   },
-  "homepage": "https://github.com/lorena-cocora-updivision/test-vue-components#readme"
+  "homepage": "https://github.com/lorena-cocora-updivision/test-vue-components#readme",
+  "dependencies": {
+    "@material-tailwind/html": "^2.0.0",
+    "click-outside-vue3": "^4.0.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
 }
