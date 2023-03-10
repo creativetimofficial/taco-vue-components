@@ -1,1 +1,1 @@
-export * from "./components/basic/Button/Button.vue";
+export * from "src/components/basic/Button/Button.vue";
