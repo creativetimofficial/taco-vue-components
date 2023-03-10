@@ -1,1 +1,3 @@
-export * from "./src/components/basic/Button/Button.vue";
+import Button from "./src/components/basic/Button/Button.vue";
+
+export default Button;
