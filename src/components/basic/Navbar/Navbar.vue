@@ -72,7 +72,7 @@ function getClasses(variant, color) {
       <ul :class="[listClass, show ? '' : 'hidden']">
         <li v-for="(item, index) in items" :key="index" :class="getItemClass(color)">
           <a :class="linksClass" :href="item.href">
-            <span v-html="item.icon"></span>
+            <span v-if="item.icon" v-html="item.icon"></span>
             {{ item.text }}
           </a>
         </li>
