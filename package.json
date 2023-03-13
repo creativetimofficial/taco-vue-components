@@ -1,14 +1,10 @@
 {
   "name": "@lorena-cocora-updivision/test-vue-components",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lorena-cocora-updivision/test-vue-components.git"
   },
   "keywords": [],
   "author": "",
