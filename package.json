@@ -1,6 +1,6 @@
 {
-  "name": "@notus-ui/vue",
-  "version": "1.0.8",
+  "name": "@ct-taco/vue",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
