@@ -1,9 +1,9 @@
-# test-vue-components
+# vue
 
-Learn how to use @lorena-cocora-updivision/test-vue-components components to quickly and easily create elegant and flexible pages using Tailwind CSS.
+Learn how to use @ct-taco/vue components to quickly and easily create elegant and flexible pages using Tailwind CSS.
 
 ## Getting Started
-@lorena-cocora-updivision/test-vue-components is working with Tailwind CSS classes and Click Outside Vue 3. 
+@ct-taco/vue is working with Tailwind CSS classes and Click Outside Vue 3. 
 
 
 
@@ -19,19 +19,19 @@ npm i click-outside-vue3
 
 <br />
 
-3. Install `@lorena-cocora-updivision/test-vue-components`.
+3. Install `@ct-taco/vue`.
 
 ```bash
-npm i @lorena-cocora-updivision/test-vue-components
+npm i @ct-taco/vue
 ```
 
 <br />
 
-4. Congratulations 🥳, you did it, now you're ready to use @lorena-cocora-updivision/test-vue-components.
+4. Congratulations 🥳, you did it, now you're ready to use @ct-taco/vue.
 
 ```jsx
 <script>
-import { Button } from "@lorena-cocora-updivision/test-vue-components";
+import { Button } from "@ct-taco/vue";
 </script>
 
 <template>
