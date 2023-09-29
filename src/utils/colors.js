@@ -21,6 +21,7 @@ export const variantStyle = {
     red: "bg-red-500",
     transparent: "bg-transparent",
     white: "bg-white",
+    black: "bg-black",
   },
   gradient: {
     "blue-gray": "bg-gradient-to-tr from-blue-gray-600 to-blue-gray-400",
