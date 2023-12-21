@@ -1,4 +1,4 @@
-# vue
+# Taco Vue components
 
 Learn how to use @ct-taco/vue components to quickly and easily create elegant and flexible pages using Tailwind CSS.
 
